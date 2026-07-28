@@ -6,7 +6,7 @@ import Testimonials from './components/Testimonials'
 import Footer from './components/Footer'
 import CTA from './components/CTA'
 
-export default function Page() {
+export default function page() {
   return (
     <div>
       <Hero></Hero>
